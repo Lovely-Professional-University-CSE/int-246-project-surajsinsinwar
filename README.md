@@ -26,4 +26,4 @@ It also includes a graph which represents two values for each generation:
     
     2. total individuals reached the target in the current generation
     
-Position of the target can also be changed by clicking anywhere on canvas but the position of obstacle is variable so it will also change according to the target's position.
+Position of the target can also be changed by clicking anywhere on canvas but the position of obstacle variable according to target's position so it will also change automatically according to the target's position.
