@@ -16,7 +16,9 @@ Variables such as
     
     3. maximum change in velocity of individuals 
     
-    4. mutation rate values of above-mentioned variables are changeable using range slider on the web page.
+    4. mutation rate
+    
+    values of above-mentioned variables are changeable using range slider on the web page.
     
 It also includes a graph which represents two values for each generation: 
 
