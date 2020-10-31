@@ -6,7 +6,9 @@ Name - Suraj Singh
 
 Section - KM107
 
-This project is a visualization of a genetic algorithm using the p5 framework of javaScript. 
+This project is a visualization of a genetic algorithm using the p5 framework of javaScript.
+
+In this individuals have to reach a target by avoiding walls and obstracle.
 
 Variables such as 
 
