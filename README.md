@@ -1,4 +1,4 @@
-Watch this project live at https://surajsinsinwar.github.io/ 
+Live :  https://surajsinsinwar.github.io/ 
 
 Reg no - 11801269
 
