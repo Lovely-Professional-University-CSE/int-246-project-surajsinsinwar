@@ -16,9 +16,7 @@ Variables such as
     
     2. time span 
     
-    3. maximum change in velocity of individuals 
-    
-    4. mutation rate
+    3. mutation rate
     
     values of above-mentioned variables are changeable using range slider on the web page.
     
